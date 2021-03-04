@@ -1,0 +1,2 @@
+- Analysis of a real dataset of acute heart failures patients using 3 classification techniques: Decision Tree, RandomForest and XGBoost
+- Implementation time: Early 2019
