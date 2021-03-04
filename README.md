@@ -1,3 +1,3 @@
 - Analysis of a real dataset of acute heart failures patients using 3 classification techniques: Decision Tree, RandomForest and XGBoost
+- `RHF_Data.csv` is the main dataset and, `bi.csv` and `stat.csv` are the partitions created from this main dataset
 - Implementation time: Early 2019
-- `RHF_Data.csv` is the main dataset and, `bi.csv` and `stat.csv` are the partitions created from this main dataset.
